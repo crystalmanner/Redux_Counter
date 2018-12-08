@@ -6,6 +6,7 @@
   "author": "crystalmanner <crystalmanner130@outlook.com>",
   "license": "MIT",
   "dependencies": {
-    "immutable": "^4.0.0-rc.12"
+    "immutable": "^4.0.0-rc.12",
+    "redux-actions": "^2.6.4"
   }
 }
