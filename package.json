@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/crystalmanner/Redux_Counter.git",
   "author": "crystalmanner <crystalmanner130@outlook.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "immutable": "^4.0.0-rc.12"
+  }
 }
