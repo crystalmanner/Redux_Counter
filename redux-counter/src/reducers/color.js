@@ -1,18 +1,18 @@
-import * as types from '../actions/ActionTypes';
+// import * as types from '../actions/ActionTypes';
 
-const initialState = {
-    color: 'black'
-};
+// const initialState = {
+//     color: 'black'
+// };
 
-const color = (state = initialState, action) => {
-    switch(action.type) {
-        case types.SET_COLOR:
-            return {
-                color: action.color
-            };
-        default:
-            return state;
-    }
-}
+// const color = (state = initialState, action) => {
+//     switch(action.type) {
+//         case types.SET_COLOR:
+//             return {
+//                 color: action.color
+//             };
+//         default:
+//             return state;
+//     }
+// }
 
-export default color;
+// export default color;
