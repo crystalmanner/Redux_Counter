@@ -1,0 +1,8 @@
+{
+  "name": "Redux_Counter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/crystalmanner/Redux_Counter.git",
+  "author": "crystalmanner <crystalmanner130@outlook.com>",
+  "license": "MIT"
+}
